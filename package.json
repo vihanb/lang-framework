@@ -1,0 +1,19 @@
+{
+  "name": "lang-framework",
+  "version": "1.0.0",
+  "description": "A lightweight language framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vihanb/lang-framework.git"
+  },
+  "author": "Vihan B <vihan@vihan.org> (vihan.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vihanb/lang-framework/issues"
+  },
+  "homepage": "https://github.com/vihanb/lang-framework#readme"
+}
